@@ -1,4 +1,4 @@
-# Reinnventing The Wheel : Websocket
+# Reinventing The Wheel : Websocket
 
 This repo has the complete source code for the examples specified in my blog [post](https://ajsqr.dev/blog/implementing-websocket-handshake/)
 
